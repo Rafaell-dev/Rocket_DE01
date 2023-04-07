@@ -12,20 +12,20 @@ h1 {
   line-height: 32px;
   font-family: 'Dosis', sans-serif;
   font-weight: normal;
-  color: #3f3d56;
+  color: #231F20;
 }
 h1 span {
   color: #ee24ff;
   font-weight: bold;
 }
 
-p {
+p, .flutuar {
   line-height: 24px;
   color: #828282;
 }
 
-p span {
-  color: #3f3d56;
+p strong {
+  color: #231F20;
 }
 
 footer {
